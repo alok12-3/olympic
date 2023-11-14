@@ -81,4 +81,3 @@ if user_menu == 'Country-wise Analysis':
     ax = sns.heatmap(pt,annot=True)
     st.pyplot(fig)
 
-   
